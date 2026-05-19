@@ -42,3 +42,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# agents & ai assistant files
+.agents/
+skills-lock.json
+.antigravity*
+supabase/.temp/
+
+
